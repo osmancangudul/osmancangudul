@@ -3,7 +3,7 @@
 
 ## 🚀 About Me
 
-I work as an Embedded system Engineer in EMPA Electronic. Currently, we are working with 
+I work as an Embedded System Engineer in EMPA Electronic. Currently, we are working with 
 Espressif, ST, Quectel systems. We can also give tech support to our customers who has same 
 passion like us.
 
