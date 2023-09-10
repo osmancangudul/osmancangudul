@@ -8,7 +8,7 @@ Espressif, ST, Quectel systems. We can also give tech support to our customers w
 passion like us.
 
 ## 🛠 Skills
-C, Verilog, VHDL, ESP-IDF, ST-HAL, QuecPyhton, QuecOpen, FreeRTOS, ThreadX
+C, Vitis HLS, Verilog, VHDL, ESP-IDF, ST-HAL, QuecPyhton, QuecOpen, FreeRTOS, ThreadX
 
 
 ## 🔗 Links
