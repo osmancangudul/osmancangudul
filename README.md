@@ -1,4 +1,4 @@
--# Hi, I'm Osman Can! 👋
+# Hi, I'm Osman Can! 👋
 
 
 ## 🚀 About Me
